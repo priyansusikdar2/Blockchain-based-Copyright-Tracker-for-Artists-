@@ -1,4 +1,6 @@
-0xA2419082D0ae70ad936579c1ad3715950ACE69d9
+Contact Address- 0xA2419082D0ae70ad936579c1ad3715950ACE69d9
+
+![image](https://github.com/user-attachments/assets/e6741afd-6443-4d2f-9e2a-a55fd5ece47d)
 # Blockchain-based Copyright Tracker for Artists  
 
 ## Project Description  
@@ -33,6 +35,5 @@ The project aims to create a transparent and secure environment for artists to p
 3. **getArtworkCount()** – Returns the total number of registered artworks.  
 
 ---
-![image](https://github.com/user-attachments/assets/e6741afd-6443-4d2f-9e2a-a55fd5ece47d)
 
   
