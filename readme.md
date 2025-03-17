@@ -32,5 +32,6 @@ The project aims to create a transparent and secure environment for artists to p
 3. **getArtworkCount()** – Returns the total number of registered artworks.  
 
 ---
+![image](https://github.com/user-attachments/assets/e6741afd-6443-4d2f-9e2a-a55fd5ece47d)
 
   
